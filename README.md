@@ -1,10 +1,15 @@
 <h1 align="center">🫆Лабораторная работа №2</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23000000&center=true&vCenter=true&width=700&lines=📊Работа+с+CSV+файлами;🔏HTTP-запросы;📈Построение+графиков+в+Matplotlib" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23999999&center=true&vCenter=true&width=700&lines=📊Работа+с+CSV+файлами;🔏HTTP-запросы;📈Построение+графиков+в+Matplotlib" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/requests-HTTP-success?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/matplotlib-visualization-orange?logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSV-data-lightgrey?logo=microsoft-excel&logoColor=white" />
+</p>
 
 ### 🔍 Цель работы
 Изучить:
