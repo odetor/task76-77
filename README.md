@@ -35,7 +35,7 @@
 
 ### 🛠 Используемые технологии
 - Python 3
-- requests
-- csv
-- matplotlib
+- Requests
+- CSV
+- Matplotlib
 - Jupiter Notebook
