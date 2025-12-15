@@ -38,3 +38,4 @@
 - requests
 - csv
 - matplotlib
+- Jupiter Notebook
