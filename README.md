@@ -1,7 +1,7 @@
 <h1 align="center">🫆Лабораторная работа №2</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23000000&center=true&vCenter=true&width=700&lines=Работа+с+CSV+файлами;HTTP-запросы;Построение+графиков+в+Matplotlib" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23000000&center=true&vCenter=true&width=700&lines=📊Работа+с+CSV+файлами;🔏HTTP-запросы;📈Построение+графиков+в+Matplotlib" />
 </p>
 
 ---
