@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/CSV-data-lightgrey?logo=microsoft-excel&logoColor=white" />
 </p>
 
+--- 
+
 ## 🔍 Описание заданий
 
 ### ✅ Задание 76  
